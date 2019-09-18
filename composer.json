@@ -6,5 +6,8 @@
         "psr-4": {
             "My\\Namespace\\": "src/"
         }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
     }
 }
