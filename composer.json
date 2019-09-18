@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "behat/behat": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "My\\Namespace\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    }
+}
