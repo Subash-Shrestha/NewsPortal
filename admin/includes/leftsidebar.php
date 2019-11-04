@@ -23,6 +23,7 @@
                                     <li><a href="manage-categories.php">Manage Category</a></li>
                                 </ul>
                             </li>
+<!--
 
     <li class="has_sub">
                                 <a href="javascript:void(0);" class="waves-effect"><i class="mdi mdi-format-list-bulleted"></i> <span>Sub Category </span> <span class="menu-arrow"></span></a>
@@ -57,13 +58,13 @@
                             </li>   
 
                         </ul>
-                    </div>
+                    </div> -->
                     <!-- Sidebar -->
                     <div class="clearfix"></div>
 
                     <div class="help-box">
                         <h5 class="text-muted m-t-0">For Help ?</h5>
-                        <p class=""><span class="text-custom">Email:</span> <br/> phpgurukulofficial@gmail.com</p>
+                        <p class=""><span class="text-custom">Email:</span> <br/>toppersgroup@gmail.com</p>
                     </div>
 
                 </div>
