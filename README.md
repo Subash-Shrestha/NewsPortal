@@ -1,0 +1,4 @@
+# NewsPortal
+Agile Assignment
+
+# Testing
