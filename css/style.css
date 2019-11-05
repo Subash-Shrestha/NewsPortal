@@ -1,0 +1,77 @@
+.logo {
+  align-self: center;
+  margin: 0% 46%;
+}
+body {
+  padding-top: 10px;
+}
+.logo img {
+  width: 120px;
+  height: 100px;
+}
+.nav-item form {
+  margin-left: 20px;
+}
+.nav-item a {
+  font-size: 20px;
+  color: rgb(119, 25, 25) !important;
+  padding: 0.5px 10px !important;
+}
+.btn-secondary {
+  color: #fff;
+  background-color: #8f4141;
+  border-color: #771919;
+}
+.navbar {
+  border-bottom: 1px solid #7b454526;
+}
+.latest-news {
+  background-color: #18233c;
+  padding: 5px 0;
+}
+.latest-news span {
+  color: #fff;
+  font-size: 20px;
+  font-weight: bold;
+}
+.latest-news a {
+  color: #ff4141;
+  font-size: 18px;
+}
+
+.news-post {
+  text-align: center;
+}
+.news-post img {
+  padding: 3% 10% 1% 10%;
+}
+.news-post .card {
+  border: 0px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 30px;
+}
+.btn-primary {
+  color: #771919;
+  background-color: #fff;
+  border-color: #771919;
+  border-radius: 0px;
+}
+.news-details {
+  margin-top: 4%;
+}
+.news-details .card,
+.comment .card {
+  border-radius: 0px;
+}
+.news-details .card-title {
+  color: #774343;
+}
+.sidebar {
+  border-radius: 0px;
+}
+.sidebar .card-header {
+  background-color: #17253d;
+}
+.sidebar h5 {
+  color: #fff;
+}
